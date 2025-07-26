@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_tools=self.webpackChunkawesome_tools||[]).push([[41],{8602:e=>{e.exports=JSON.parse('{"tags":[{"label":"greetings","permalink":"/awesome_tools/blog/tags/greetings","count":1}]}')}}]);

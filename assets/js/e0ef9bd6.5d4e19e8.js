@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_tools=self.webpackChunkawesome_tools||[]).push([[366],{7658:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/awesome_tools/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkawesome_tools=self.webpackChunkawesome_tools||[]).push([[903],{9531:o=>{o.exports=JSON.parse('{"blogBasePath":"/awesome_tools/blog","blogTitle":"Blog","authorsListPath":"/awesome_tools/blog/authors"}')}}]);
