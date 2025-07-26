@@ -1,41 +1,32 @@
-# Website
+# Awesome Tools
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+A curated list of awesome tools for research, productivity, and development.
 
-## Installation
+## Table of Contents
 
-```bash
-yarn
-```
+- [Productivity](#productivity)
+- [Development](#development)
+- [Research](#research)
+- [Contributing](#contributing)
 
-## Local Development
+## Productivity
 
-```bash
-yarn start
-```
+- **Notion** - All-in-one workspace for notes, tasks, and collaboration.
+- **Obsidian** - Knowledge base that works on local Markdown files.
+- **Todoist** - Task manager and to-do list app.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Development
 
-## Build
+- **Visual Studio Code** - Powerful, lightweight code editor.
+- **GitHub Copilot** - AI-powered code completion tool.
+- **Postman** - API development and testing tool.
 
-```bash
-yarn build
-```
+## Research
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-## Deployment
 
-Using SSH:
+## Contributing
 
-```bash
-USE_SSH=true yarn deploy
-```
+Contributions are welcome! Please open an issue or submit a pull request.
 
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+---
