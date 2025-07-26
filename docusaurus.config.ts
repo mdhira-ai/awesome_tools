@@ -27,8 +27,6 @@ const config: Config = {
   deploymentBranch: 'gh-pages', // The branch that GitHub pages will deploy from.
   trailingSlash: false,
 
-  
-
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
