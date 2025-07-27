@@ -1,7 +1,7 @@
 export default {
   tutorialSidebar: [
-    'hello',
-    'Gui_framework'
+    'Gui_framework',
+    'ai',
    
     
   ],
